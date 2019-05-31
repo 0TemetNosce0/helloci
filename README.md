@@ -21,10 +21,15 @@
 [win-link]: https://ci.appveyor.com/project/jiawentao/helloci "AppVeyor build status"
 [release-link]: https://github.com/jaredtao/HelloCI/releases "Release status"
 [release-badge]: https://img.shields.io/github/release/jaredtao/HelloCI.svg?style=flat-square" "Release status"
-[download-link]: https://github.com/jaredtao/HelloCI/releases/latest "Download status"
+[download-link]: https://github.com/0TemetNosce0/helloci/releases/latest "Download status"
 [download-badge]: https://img.shields.io/github/downloads/jaredtao/HelloCI/total.svg?style=flat-square "Download status"
 [license-link]: https://github.com/jaredtao/HelloCI/blob/master/LICENSE "LICENSE"
 [license-badge]: https://img.shields.io/badge/license-MIT-blue.svg "MIT"
+
+
+[![Build status](https://ci.appveyor.com/api/projects/status/y7166heq2dp0cxxv?svg=true)](https://ci.appveyor.com/project/0TemetNosce0/helloci)
+
+
 ## support
 [![GitHub Issues](https://img.shields.io/badge/github-issues-red.svg?maxAge=60)](https://github.com/jaredtao/HelloCI/issues)
 [![GitHub Wiki](https://img.shields.io/badge/github-wiki-181717.svg?maxAge=60)](https://github.com/jaredtao/HelloCI/wiki)
