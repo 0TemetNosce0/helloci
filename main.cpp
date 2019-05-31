@@ -4,7 +4,7 @@
 int main(int argc, char *argv[])
 {
     QCoreApplication::setAttribute(Qt::AA_EnableHighDpiScaling);
-
+11111111111
     QGuiApplication app(argc, argv);
 
     QQmlApplicationEngine engine;
