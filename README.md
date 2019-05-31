@@ -22,4 +22,5 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/y7166heq2dp0cxxv?svg=true)](https://ci.appveyor.com/project/0TemetNosce0/helloci)
 
-
+[download-link]: https://github.com/0TemetNosce0/helloci/releases/latest "Download status"
+[release-link]: https://github.com/jaredtao/HelloCI/releases "Release status"
